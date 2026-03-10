@@ -51,7 +51,7 @@ With the rise of AI writing tools, distinguishing between human and machine-gene
 
 ## How It Works
 
-1. Load and explore the labeled essay dataset
+1. Load and explore the labeled essay dataset. Link: https://drive.google.com/file/d/1qy-SCaxxaqjI8VTMof_py6et1JJN9Q83/view?usp=sharing
 2. Visualize label distributions, text lengths, and word frequency
 3. Vectorize text using CountVectorizer (Bag-of-Words)
 4. Apply TruncatedSVD for dimensionality reduction
