@@ -64,7 +64,7 @@ With the rise of AI writing tools, distinguishing between human and machine-gene
 ## Results
 
 - **Best Model:** MLP Classifier with ReLU activation
-- **Best Accuracy:** 90%+
+- **Best Accuracy:** 99%+
 - **Validation:** 5-fold cross-validation confirmed model generalization
 
 ---
